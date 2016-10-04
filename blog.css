@@ -1,0 +1,80 @@
+h1 {
+ color: rgb(37,122,185);
+}
+
+.niceParagraph {
+  background-color: grey;
+  font-family: "Baskerville";
+}
+
+h2
+{
+	color:gray;
+	font-family: sans-serif;
+	font-size: 25px
+}
+table th 
+{
+	color: red;
+	font-size: 20px;
+
+}
+#actual
+{
+	color:red;
+}
+
+.articleContainer {
+  background-color: #FFFFFF;
+  width: 50%;
+  margin: auto;
+}
+.articleContainer:hover 
+	{
+		background-color: #000000;
+	}
+	
+
+
+h1 {
+  font-size: 40px;
+}
+
+.postAuthor {
+  font-size: 20px;
+}
+
+
+footer {
+  background-color: #444444;
+  padding: 30px 10px;
+  border-top: 5px solid black;
+  color: white;
+  font-size: 10px;
+  font-style: italic;
+  width: 100%;
+}
+header{
+	text-align: center;;
+} 
+
+footer a:link {
+  color: #FFFFFF;
+}
+
+footer a:visited {
+` color: #CCCCCC;
+}
+
+footer a:hover {
+  color: #999999;
+}
+.floatedBox {
+    float: left;
+    background-color: #fff;
+ 	padding: 10px 10px;
+  	border: 1px solid black;
+  	box-shadow: 10px 5px 5px #888888;
+ 
+
+}

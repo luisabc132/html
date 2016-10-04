@@ -1,0 +1,57 @@
+body
+{
+	font-family: arial,sans-serif;
+	height: 100%;
+	margin: 0;
+	display: block;
+}
+.vista
+{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	min-height: 100%;
+	margin: auto;
+	min-width: 980px;
+	display: block;
+
+}
+.busqueda
+{
+	background-size: 272px 92px;
+	height: 92px;
+	width: 271px;
+	background: url(https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) no-repeat;
+	margin-top: 12%;
+	text-align: -webkit-left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+
+
+
+   
+
+}
+
+
+
+
+.cabecera 
+{
+	width: 1952;
+	height: 30;
+	background-color: #4b4b4b;
+	color:#000000;
+	text-decoration: none;
+	font-family: arial,sans-serif;
+	text-align: right;
+	display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+}
+
+
+}
